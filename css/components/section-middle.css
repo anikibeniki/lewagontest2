@@ -1,0 +1,24 @@
+.section-middle {
+margin: 0 auto;
+text-align: center;
+padding: 20px;
+}
+
+.cards-stack {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.card {
+border-radius: 3px;
+box-shadow: 0 0 10px rgb(230 230 230);
+text-align: center;
+padding: 20px;
+margin: 0px 40px;
+}
+
+.card img {
+  height: 50px;
+  width: 50px;
+}

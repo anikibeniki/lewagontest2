@@ -1,0 +1,21 @@
+.footer {
+padding: 60px;
+  margin: 40 auto;
+text-align: center;
+background-color:#2c2b2b;
+color: gainsboro;
+}
+
+.links {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  margin: 0px 40px;
+  font-size: 35px;
+  color: aquamarine;
+  display: block;
+}
+
+.links:hover {
+  cursor: pointer;
+}
